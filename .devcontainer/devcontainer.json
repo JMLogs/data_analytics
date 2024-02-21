@@ -30,4 +30,7 @@
   "forwardPorts": [
     8501
   ]
+
+  "ghcr.io/devcontainers/features/sshd:1": {}"latest" (default)
+  
 }
